@@ -1,0 +1,7 @@
+videos/
+*.mp4
+rewards_plot.png
+smoothed_rewards.png
+loss_plot.png
+.ipynb_checkpoints/
+__pycache__/
